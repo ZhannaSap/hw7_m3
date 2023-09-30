@@ -17,7 +17,8 @@ class FragmentList : Fragment() {
         Music("3","Earned It","The Weekend","4:51"),
         Music("4","The Hills","The Weekend","3:41"),
         Music("5","Writing’s On The Wall","The Hils","5:33"),
-
+        Music("6","Dragula","Rob Zombie","5:53"),
+        Music("7","Faggot","MSI","4:13"),
     )
 
     override fun onCreateView(
